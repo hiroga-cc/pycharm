@@ -1,0 +1,29 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.84875184" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="KEYMAP" value="split&#10;caret&#10;start&#10;terminal&#10;termi" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="repos&#10;sess&#10;kotlin&#10;target&#10;jvm" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="save&#10;ktor" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.gist.reindex.count" value="23" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2018.3-1" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="kotlin.lastUpdateCheck" value="1551588626310" />
+    <property name="lastTip" value="32" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+  </component>
+</application>

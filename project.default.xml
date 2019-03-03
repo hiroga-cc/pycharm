@@ -1,0 +1,66 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Dev/hiroga/chomadlin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/pj/jic/repos/insurance_api" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/pj/jic/repos/ktor-example" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/repos/kotlin-ktor-exposed-starter" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/repos/kotlin_web_application/todo-list-spark-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/repos/kotlin_web_application/todo-list-spring-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/repos/realworld-kotlin-ktor" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/til/lang/kt/koin" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/til/lang/kt/koinz" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
