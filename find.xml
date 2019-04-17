@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'lambda_gradle_kotlin'" />
+    <option name="defaultScopeName" value="Project 'lambda_gradle_kotlin'" />
+    <option name="SEARCH_SCOPE" value="Project 'lambda_gradle_kotlin'" />
   </component>
 </application>
