@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="export-env" type="PLAIN_TEXT" />
+      <mapping ext="migrate" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
