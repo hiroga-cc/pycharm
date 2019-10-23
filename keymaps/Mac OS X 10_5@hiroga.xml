@@ -11,15 +11,21 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorEnter">
-    <keyboard-shortcut first-keystroke="enter" />
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="ExportToTextFile" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NavBar-return">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="OverrideMethods" />
+  <action id="PopupMenu-return">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
